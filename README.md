@@ -1,6 +1,6 @@
 # Laravel PHP Rdkafka Consumer
 
-`Deprecated, use https://github.com/ensi-platform/laravel-telemetry instead`
+`Deprecated, use https://github.com/ensi-platform/laravel-php-rdkafka-consumer instead`
 
 Opiniated High Level consumer for [greensight/laravel-phprdkafka](https://github.com/greensight/laravel-php-rdkafka)
 
